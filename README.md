@@ -15,7 +15,7 @@ desarrollo de paginas
 <a href="#" class="nav_items nav_items--cta"> CONTACTAME</a>
 <a href="#" class="nav_items"> SOBRE MI</a> 
 <a href="#" class="nav_items"> PROYECTO </a>
-<img src="img/navidad 1.jpg " width="1000" height="400" alt="">
+<img src="pagina navideña juan carlos/img/navidad 1.jpg " width="1000" height="400" alt="">
 </nav>
 <section class="hero_container"> 
 <div class="hero_texts"> 
